@@ -5,16 +5,10 @@ Installation du Daemon Ptero
     apt -y install nodejs git unzip zip make gcc g++ curl sudo
     curl -sSL https://get.docker.com/ | CHANNEL=stable bash
     systemctl enable docker
-    nano /etc/default/grub
-     - GRUB_CMDLINE_LINUX_DEFAULT="swapaccount=1"
-     - Reboot
     
-    curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
-    mkdir -p /srv/daemon /srv/daemon-data
-    cd /srv/daemon
-    curl -L https://github.com/pterodactyl/daemon/releases/download/v0.6.12/daemon.tar.gz | tar --strip-components=1 -xzv
-    npm install --only=production
-     - install core.json
+    mkdir -p /etc/pterodactyl
+    curl -L -o /usr/local/bin/wings "https://github.com/pterodactyl/wings/releases/latest/download/wings_linux_$([[ "$(uname -m)" == "x86_64" ]] && echo "amd64" || echo "arm64")"
+    chmod u+x /usr/local/bin/wings
     
     nano /etc/systemd/system/wings.service
     
@@ -41,7 +35,7 @@ Installation du Daemon Ptero
 
 ###Installation CFG
 
-    git clone https://github.com/Iwhite67/Zilat-CSGO-cfg.git /srv/daemon-data/csgo
+    git clone https://github.com/Iwhite67/Zilat-CSGO-cfg.git /var/lib/pterodactyl/volumes
     cp -r csgo/ 'id_serv'/csgo
 
 Launch Opt Server
