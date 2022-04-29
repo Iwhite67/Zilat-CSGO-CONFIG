@@ -1,0 +1,56 @@
+L 04/24/2022 - 10:26:39: SourceMod error session started
+L 04/24/2022 - 10:26:39: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220424.log")
+L 04/24/2022 - 10:26:39: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:26:39: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:26:54: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:26:54: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:27:20: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:27:20: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:27:29: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:27:29: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:27:59: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:27:59: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:28:23: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/24/2022 - 10:29:13: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/24/2022 - 10:29:44: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:29:44: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:29:48: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/24/2022 - 10:30:12: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:30:12: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:31:06: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:31:06: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:31:20: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:31:20: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:31:25: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:31:25: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:31:31: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:31:31: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:31:38: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:31:38: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:32:22: [get5.smx] json_decode: couldn't extract string at position 638
+L 04/24/2022 - 10:32:22: [get5.smx] Failed to load match config: invalid match json
+L 04/24/2022 - 10:37:17: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/24/2022 - 10:38:11: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/24/2022 - 10:39:53: Error log file session closed.
+L 04/24/2022 - 10:41:41: SourceMod error session started
+L 04/24/2022 - 10:41:41: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220424.log")
+L 04/24/2022 - 10:41:41: [get5_apistats.smx] Failed to create logo directory: materials/panorama/images/tournaments/teams
+L 04/24/2022 - 12:34:21: [get5.smx] Type mismatch for key "players_per_team", got string when expected a int
+L 04/24/2022 - 12:34:21: [get5.smx] Type mismatch for key "min_players_to_ready", got string when expected a int
+L 04/24/2022 - 12:34:21: [get5.smx] Type mismatch for key "min_spectators_to_ready", got string when expected a int
+L 04/24/2022 - 12:34:21: [get5.smx] Type mismatch for key "skip_veto", got int when expected a bool
+L 04/24/2022 - 12:34:21: [get5.smx] Type mismatch for key "num_maps", got string when expected a int
+L 04/24/2022 - 12:34:21: [get5_apistats.smx] Failed to create logo directory: materials/panorama/images/tournaments/teams
+L 04/24/2022 - 12:34:53: [get5.smx] Type mismatch for key "players_per_team", got string when expected a int
+L 04/24/2022 - 12:34:53: [get5.smx] Type mismatch for key "min_players_to_ready", got string when expected a int
+L 04/24/2022 - 12:34:53: [get5.smx] Type mismatch for key "min_spectators_to_ready", got string when expected a int
+L 04/24/2022 - 12:34:53: [get5.smx] Type mismatch for key "skip_veto", got int when expected a bool
+L 04/24/2022 - 12:34:53: [get5.smx] Type mismatch for key "num_maps", got string when expected a int
+L 04/24/2022 - 12:34:53: [get5_apistats.smx] Failed to create logo directory: materials/panorama/images/tournaments/teams
+L 04/24/2022 - 12:36:49: [get5.smx] Type mismatch for key "players_per_team", got string when expected a int
+L 04/24/2022 - 12:36:49: [get5.smx] Type mismatch for key "min_players_to_ready", got string when expected a int
+L 04/24/2022 - 12:36:49: [get5.smx] Type mismatch for key "min_spectators_to_ready", got string when expected a int
+L 04/24/2022 - 12:36:49: [get5.smx] Type mismatch for key "skip_veto", got int when expected a bool
+L 04/24/2022 - 12:36:49: [get5.smx] Type mismatch for key "num_maps", got string when expected a int
+L 04/24/2022 - 12:36:49: [get5_apistats.smx] Failed to create logo directory: materials/panorama/images/tournaments/teams
+L 04/24/2022 - 12:47:53: [get5_apistats.smx] Failed to create logo directory: materials/panorama/images/tournaments/teams

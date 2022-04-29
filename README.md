@@ -45,4 +45,4 @@ Installation du Daemon Ptero
     cp -r csgo/ 'id_serv'/csgo
 
 Launch Opt Server
-    ./srcds_run -game csgo -console -port {{SERVER_PORT}} +ip 0.0.0.0 +map {{SRCDS_MAP}} -strictportbind -norestart +sv_setsteamaccount {{STEAM_ACC}} -tickrate 128 +tv_enable 1-tickrate 128 +tv_enable 1 -clientport {{CLIENT_PORT}} +tv_port {{TV_PORT}}
+    ./srcds_run +game_mode {{GAME_MODE}} +game_type {{GAME_TYPE}} -game csgo -console -port {{SERVER_PORT}} +ip 0.0.0.0 +map {{SRCDS_MAP}} -strictportbind -norestart +sv_setsteamaccount {{STEAM_ACC}} -tickrate 128 +tv_enable 1 -clientport {{CLIENT_PORT}} +tv_port {{TV_PORT}} -usercon +sv_load_forced_client_names_file "Playername.txt"

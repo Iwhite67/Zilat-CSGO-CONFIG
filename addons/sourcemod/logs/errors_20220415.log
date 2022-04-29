@@ -1,0 +1,18 @@
+L 04/15/2022 - 18:02:09: SourceMod error session started
+L 04/15/2022 - 18:02:09: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220415.log")
+L 04/15/2022 - 18:02:09: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/15/2022 - 18:02:09: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/15/2022 - 18:02:17: Error log file session closed.
+L 04/15/2022 - 18:13:08: SourceMod error session started
+L 04/15/2022 - 18:13:08: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220415.log")
+L 04/15/2022 - 18:13:08: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/15/2022 - 18:13:08: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/15/2022 - 19:29:16: Error log file session closed.
+L 04/15/2022 - 19:45:57: SourceMod error session started
+L 04/15/2022 - 19:45:57: Info (map "de_nuke") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220415.log")
+L 04/15/2022 - 19:45:57: [SM] Exception reported: Menu handle 23000ed is invalid (error 1)
+L 04/15/2022 - 19:45:57: [SM] Blaming: get5.smx
+L 04/15/2022 - 19:45:57: [SM] Call stack trace:
+L 04/15/2022 - 19:45:57: [SM]   [0] Menu.Cancel
+L 04/15/2022 - 19:45:57: [SM]   [1] Line 822, ./scripting/get5.sp::Command_EndMatch
+L 04/15/2022 - 19:46:06: Error log file session closed.

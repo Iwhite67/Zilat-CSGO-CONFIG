@@ -1,0 +1,4 @@
+L 03/27/2022 - 15:02:17: SourceMod error session started
+L 03/27/2022 - 15:02:17: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220327.log")
+L 03/27/2022 - 15:02:17: [get5.smx] Failed to load match config: Match kv file doesn't exist: "gotv.cfg"
+L 03/27/2022 - 15:04:28: Error log file session closed.

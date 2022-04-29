@@ -1,0 +1,30 @@
+L 04/22/2022 - 12:37:39: SourceMod error session started
+L 04/22/2022 - 12:37:39: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220422.log")
+L 04/22/2022 - 12:37:39: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 12:38:04: Error log file session closed.
+L 04/22/2022 - 12:40:15: SourceMod error session started
+L 04/22/2022 - 12:40:15: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220422.log")
+L 04/22/2022 - 12:40:15: [get5.smx] Failed to load match config: Failed to create HTTP GET request
+L 04/22/2022 - 12:40:41: Error log file session closed.
+L 04/22/2022 - 12:41:03: SourceMod error session started
+L 04/22/2022 - 12:41:03: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220422.log")
+L 04/22/2022 - 12:41:03: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 12:42:44: SourceMod error session started
+L 04/22/2022 - 12:42:44: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220422.log")
+L 04/22/2022 - 12:42:44: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 12:48:14: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:00:39: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:01:14: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:01:30: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:01:39: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:01:39: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:01:50: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:02:18: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:02:26: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:03:57: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:04:03: Error log file session closed.
+L 04/22/2022 - 13:05:00: SourceMod error session started
+L 04/22/2022 - 13:05:00: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220422.log")
+L 04/22/2022 - 13:05:00: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/22/2022 - 13:05:27: [get5.smx] Failed to load match config: Steamworks GET request failed, HTTP status code = 0
+L 04/23/2022 - 13:50:14: Error log file session closed.

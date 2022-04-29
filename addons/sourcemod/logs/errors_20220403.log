@@ -1,0 +1,4 @@
+L 04/03/2022 - 15:51:36: SourceMod error session started
+L 04/03/2022 - 15:51:36: Info (map "de_inferno") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220403.log")
+L 04/03/2022 - 15:51:36: [get5.smx] Failed to find read backup file "get5_backup_matchmatchid_map0_knife.cfg"
+L 04/03/2022 - 15:54:08: Error log file session closed.
