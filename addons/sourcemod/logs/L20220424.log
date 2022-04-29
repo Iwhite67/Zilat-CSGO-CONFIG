@@ -1,0 +1,14 @@
+L 04/24/2022 - 10:41:31: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220424.log") (Version "1.10.0.6536")
+L 04/24/2022 - 10:41:31: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/24/2022 - 10:41:31: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/965155432102526996/vZQRFoZFMxVGw3wVn8zF6HtymIOXLqc38B9o3YKVTdfhG9M6XyBkSywlPSl-w2R0jJAy
+L 04/24/2022 - 10:41:31: [get5discord.smx] Username set to Match Result Bot
+L 04/24/2022 - 10:41:31: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/24/2022 - 10:41:31: [get5discord.smx] Color set to 39423
+L 04/24/2022 - 10:42:02: [get5discord.smx] Sending request to https://discord.com/api/webhooks/965155432102526996/vZQRFoZFMxVGw3wVn8zF6HtymIOXLqc38B9o3YKVTdfhG9M6XyBkSywlPSl-w2R0jJAy
+L 04/24/2022 - 13:43:11: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220424.log") (Version "1.10.0.6536")
+L 04/24/2022 - 13:43:11: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/24/2022 - 13:43:11: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/965155432102526996/vZQRFoZFMxVGw3wVn8zF6HtymIOXLqc38B9o3YKVTdfhG9M6XyBkSywlPSl-w2R0jJAy
+L 04/24/2022 - 13:43:11: [get5discord.smx] Username set to Match Result Bot
+L 04/24/2022 - 13:43:11: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/24/2022 - 13:43:11: [get5discord.smx] Color set to 39423
+L 04/24/2022 - 15:07:45: Log file closed.

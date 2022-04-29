@@ -1,0 +1,23 @@
+L 04/17/2022 - 09:01:08: SourceMod error session started
+L 04/17/2022 - 09:01:08: Info (map "de_inferno") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220417.log")
+L 04/17/2022 - 09:01:08: [SM] Exception reported: Menu handle 499a0980 is invalid (error 1)
+L 04/17/2022 - 09:01:08: [SM] Blaming: get5.smx
+L 04/17/2022 - 09:01:08: [SM] Call stack trace:
+L 04/17/2022 - 09:01:08: [SM]   [0] Menu.Cancel
+L 04/17/2022 - 09:01:08: [SM]   [1] Line 822, ./scripting/get5.sp::Command_EndMatch
+L 04/17/2022 - 09:01:44: [get5.smx] Failed to find read backup file "get5_backup_match2_1_2_1_map0_round37.cfg"
+L 04/17/2022 - 09:01:56: [SM] Exception reported: Menu handle 499a0980 is invalid (error 1)
+L 04/17/2022 - 09:01:56: [SM] Blaming: get5.smx
+L 04/17/2022 - 09:01:56: [SM] Call stack trace:
+L 04/17/2022 - 09:01:56: [SM]   [0] Menu.Cancel
+L 04/17/2022 - 09:01:56: [SM]   [1] Line 822, ./scripting/get5.sp::Command_EndMatch
+L 04/17/2022 - 09:07:28: Error log file session closed.
+L 04/17/2022 - 10:07:24: SourceMod error session started
+L 04/17/2022 - 10:07:24: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220417.log")
+L 04/17/2022 - 10:07:24: [SM] Exception reported: Client index 0 is invalid
+L 04/17/2022 - 10:07:24: [SM] Blaming: basetriggers.smx
+L 04/17/2022 - 10:07:24: [SM] Call stack trace:
+L 04/17/2022 - 10:07:24: [SM]   [0] PrintToChat
+L 04/17/2022 - 10:07:24: [SM]   [1] Line 530, /home/builds/sourcemod/linux-1.10/build/plugins/basetriggers.sp::ShowFriendlyFire
+L 04/17/2022 - 10:07:24: [SM]   [2] Line 280, /home/builds/sourcemod/linux-1.10/build/plugins/basetriggers.sp::OnClientSayCommand_Post
+L 04/17/2022 - 11:06:05: Error log file session closed.

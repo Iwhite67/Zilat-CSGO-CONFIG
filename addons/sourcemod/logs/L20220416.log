@@ -1,0 +1,86 @@
+L 04/16/2022 - 05:44:24: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 05:44:24: [get5discord.smx] Sending request to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 05:44:29: Log file closed.
+L 04/16/2022 - 05:44:44: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 05:44:44: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 05:44:44: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 05:44:44: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 05:44:44: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 05:44:44: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 05:45:31: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 05:48:04: -------- Mapchange to de_overpass --------
+L 04/16/2022 - 05:49:07: [get5.smx] Recording to 1_1_1_1_Iwhite_-_Sqal_map1_de_overpass.dem
+L 04/16/2022 - 05:59:14: Log file closed.
+L 04/16/2022 - 05:59:30: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 05:59:30: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 05:59:30: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 05:59:30: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 05:59:30: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 05:59:30: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 05:59:42: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 06:01:13: -------- Mapchange to de_inferno --------
+L 04/16/2022 - 06:01:49: [get5.smx] Recording to 1_1_1_1_Iwhite_-_Sqal_map1_de_inferno.dem
+L 04/16/2022 - 06:08:17: [get5discord.smx] Sending request to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 07:20:12: Log file closed.
+L 04/16/2022 - 07:21:46: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 07:21:46: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 07:21:46: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 07:21:46: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 07:21:46: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 07:21:46: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 07:33:14: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 07:51:33: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 07:53:45: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 08:23:52: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 08:28:07: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 08:30:00: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 09:03:09: [get5discord.smx] Sending request to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 09:38:33: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 10:02:20: Log file closed.
+L 04/16/2022 - 10:02:34: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 10:02:34: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 10:02:34: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/960643373096640512/XrcNF1LU5vMpx1yi9y3cL7hMgGvVKd3nWJy_lRs6cdPgKxT2lr0qDm3KQjSFoN6r-8Si
+L 04/16/2022 - 10:02:34: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 10:02:34: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 10:02:34: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 10:20:34: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 10:24:22: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 10:37:15: -------- Mapchange to de_overpass --------
+L 04/16/2022 - 10:38:14: [get5.smx] Recording to 1_1_2_1_Grand_Chelem_-_FC_Buvette_map1_de_overpass.dem
+L 04/16/2022 - 11:13:13: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 11:13:13: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 11:13:13: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 11:13:13: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 11:13:13: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 11:13:20: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 12:11:35: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 12:32:32: -------- Mapchange to de_overpass --------
+L 04/16/2022 - 12:45:52: -------- Mapchange to de_vertigo --------
+L 04/16/2022 - 12:47:53: [get5.smx] Recording to 1_1_3_1_Grand_Chelem_-_FritesAuFour_map1_de_vertigo.dem
+L 04/16/2022 - 13:32:47: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 13:50:13: -------- Mapchange to de_overpass --------
+L 04/16/2022 - 13:51:43: [get5.smx] Recording to 1_1_4_1_Grand_Chelem_-_Impulsion_map1_de_overpass.dem
+L 04/16/2022 - 14:15:38: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 14:41:46: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 14:42:26: [get5.smx] Recording to 1_1_5_2_FritesAuFour_-_FC_Buvette_map1_de_dust2.dem
+L 04/16/2022 - 15:17:59: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 15:37:43: Log file closed.
+L 04/16/2022 - 15:37:58: SourceMod log file session started (file "/home/container/csgo/addons/sourcemod/logs/L20220416.log") (Version "1.10.0.6536")
+L 04/16/2022 - 15:37:58: [get5discord.smx] Found get5discord.cfg file. Loading...
+L 04/16/2022 - 15:37:58: [get5discord.smx] Webhook URL set to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 15:37:58: [get5discord.smx] Username set to Match Result Bot
+L 04/16/2022 - 15:37:58: [get5discord.smx] Avatar URL set to https://i.imgur.com/rHYHg0j.png
+L 04/16/2022 - 15:37:58: [get5discord.smx] Color set to 39423
+L 04/16/2022 - 16:14:16: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 16:15:07: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 16:15:29: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 16:28:03: -------- Mapchange to de_ancient --------
+L 04/16/2022 - 16:30:47: [get5.smx] Recording to 2_1_1_2_LES_VAINQUEURS_-_FC_Buvette_map1_de_ancient.dem
+L 04/16/2022 - 17:19:08: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 17:21:23: -------- Mapchange to de_inferno --------
+L 04/16/2022 - 17:32:12: [get5.smx] Recording to 2_1_1_2_LES_VAINQUEURS_-_FC_Buvette_map2_de_inferno.dem
+L 04/16/2022 - 18:20:06: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/16/2022 - 18:22:22: -------- Mapchange to de_dust2 --------
+L 04/16/2022 - 18:36:40: [get5.smx] Recording to 2_1_1_2_LES_VAINQUEURS_-_FC_Buvette_map3_de_dust2.dem
+L 04/16/2022 - 19:22:52: [get5discord.smx] Sending request to https://discord.com/api/webhooks/964845138566316033/xl4v6DhvIUo8Qd2u_H58ryGf1I-DIGDzKulHJLxMV6nGofr9CXWbnEILfrf4hx5hbb59
+L 04/17/2022 - 07:10:46: Log file closed.

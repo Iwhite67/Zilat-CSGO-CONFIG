@@ -1,0 +1,16 @@
+L 04/16/2022 - 05:44:24: SourceMod error session started
+L 04/16/2022 - 05:44:24: Info (map "de_overpass") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 05:44:24: [SM] Exception reported: Menu handle 19c00dd is invalid (error 1)
+L 04/16/2022 - 05:44:24: [SM] Blaming: get5.smx
+L 04/16/2022 - 05:44:24: [SM] Call stack trace:
+L 04/16/2022 - 05:44:24: [SM]   [0] Menu.Cancel
+L 04/16/2022 - 05:44:24: [SM]   [1] Line 822, ./scripting/get5.sp::Command_EndMatch
+L 04/16/2022 - 05:44:29: Error log file session closed.
+L 04/16/2022 - 12:11:35: SourceMod error session started
+L 04/16/2022 - 12:11:35: Info (map "de_overpass") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220416.log")
+L 04/16/2022 - 12:11:35: [SM] Exception reported: Menu handle 48a0123 is invalid (error 1)
+L 04/16/2022 - 12:11:35: [SM] Blaming: get5.smx
+L 04/16/2022 - 12:11:35: [SM] Call stack trace:
+L 04/16/2022 - 12:11:35: [SM]   [0] Menu.Cancel
+L 04/16/2022 - 12:11:35: [SM]   [1] Line 822, ./scripting/get5.sp::Command_EndMatch
+L 04/16/2022 - 12:32:32: Error log file session closed.

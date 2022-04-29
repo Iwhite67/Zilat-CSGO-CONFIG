@@ -1,0 +1,36 @@
+L 04/07/2022 - 19:13:46: SourceMod error session started
+L 04/07/2022 - 19:13:46: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220407.log")
+L 04/07/2022 - 19:13:46: [SM] Exception reported: Translation failed: invalid client index -1 (arg 5)
+L 04/07/2022 - 19:13:46: [SM] Blaming: get5.smx
+L 04/07/2022 - 19:13:46: [SM] Call stack trace:
+L 04/07/2022 - 19:13:46: [SM]   [0] Menu.SetTitle
+L 04/07/2022 - 19:13:46: [SM]   [1] Line 237, ./scripting/get5/mapveto.sp::GiveMapVetoMenu
+L 04/07/2022 - 19:13:46: [SM]   [2] Line 171, ./scripting/get5/mapveto.sp::VetoController
+L 04/07/2022 - 19:13:46: [SM]   [3] Line 25, ./scripting/get5/mapveto.sp::Timer_VetoCountdown
+L 04/07/2022 - 19:13:50: [SM] Exception reported: Translation failed: invalid client index -1 (arg 5)
+L 04/07/2022 - 19:13:50: [SM] Blaming: get5.smx
+L 04/07/2022 - 19:13:50: [SM] Call stack trace:
+L 04/07/2022 - 19:13:50: [SM]   [0] Menu.SetTitle
+L 04/07/2022 - 19:13:50: [SM]   [1] Line 237, ./scripting/get5/mapveto.sp::GiveMapVetoMenu
+L 04/07/2022 - 19:13:50: [SM]   [2] Line 171, ./scripting/get5/mapveto.sp::VetoController
+L 04/07/2022 - 19:13:50: [SM]   [3] Line 25, ./scripting/get5/mapveto.sp::Timer_VetoCountdown
+L 04/07/2022 - 19:13:52: [SM] Exception reported: Translation failed: invalid client index -1 (arg 5)
+L 04/07/2022 - 19:13:52: [SM] Blaming: get5.smx
+L 04/07/2022 - 19:13:52: [SM] Call stack trace:
+L 04/07/2022 - 19:13:52: [SM]   [0] Menu.SetTitle
+L 04/07/2022 - 19:13:52: [SM]   [1] Line 237, ./scripting/get5/mapveto.sp::GiveMapVetoMenu
+L 04/07/2022 - 19:13:52: [SM]   [2] Line 171, ./scripting/get5/mapveto.sp::VetoController
+L 04/07/2022 - 19:13:52: [SM]   [3] Line 25, ./scripting/get5/mapveto.sp::Timer_VetoCountdown
+L 04/07/2022 - 19:13:54: [SM] Exception reported: Translation failed: invalid client index -1 (arg 5)
+L 04/07/2022 - 19:13:54: [SM] Blaming: get5.smx
+L 04/07/2022 - 19:13:54: [SM] Call stack trace:
+L 04/07/2022 - 19:13:54: [SM]   [0] Menu.SetTitle
+L 04/07/2022 - 19:13:54: [SM]   [1] Line 237, ./scripting/get5/mapveto.sp::GiveMapVetoMenu
+L 04/07/2022 - 19:13:54: [SM]   [2] Line 171, ./scripting/get5/mapveto.sp::VetoController
+L 04/07/2022 - 19:13:54: [SM]   [3] Line 25, ./scripting/get5/mapveto.sp::Timer_VetoCountdown
+L 04/07/2022 - 19:13:56: Error log file session closed.
+L 04/07/2022 - 19:19:13: SourceMod error session started
+L 04/07/2022 - 19:19:13: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220407.log")
+L 04/07/2022 - 19:19:13: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/07/2022 - 19:19:13: [get5.smx] Cannot load team config from file "cfg/teams/teamname.cfg"
+L 04/08/2022 - 18:57:19: Error log file session closed.

@@ -1,0 +1,104 @@
+L 04/05/2022 - 18:14:59: SourceMod error session started
+L 04/05/2022 - 18:14:59: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:14:59: [get5.smx] Cannot load team config from file "teams/test.cfg"
+L 04/05/2022 - 18:14:59: [get5.smx] Cannot load team config from file "teams/test2.cfg"
+L 04/05/2022 - 18:15:33: Error log file session closed.
+L 04/05/2022 - 18:16:34: SourceMod error session started
+L 04/05/2022 - 18:16:34: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:16:34: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:16:34: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:16:34: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:16:34: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:16:41: Error log file session closed.
+L 04/05/2022 - 18:20:55: SourceMod error session started
+L 04/05/2022 - 18:20:55: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:20:55: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:20:55: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:20:55: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:20:55: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:25:17: Error log file session closed.
+L 04/05/2022 - 18:26:06: SourceMod error session started
+L 04/05/2022 - 18:26:06: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:26:06: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:26:06: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:26:06: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:26:06: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:30:01: Error log file session closed.
+L 04/05/2022 - 18:30:42: SourceMod error session started
+L 04/05/2022 - 18:30:42: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:30:42: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:30:42: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:30:42: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:30:42: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:33:30: Error log file session closed.
+L 04/05/2022 - 18:34:11: SourceMod error session started
+L 04/05/2022 - 18:34:11: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:34:11: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:34:11: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:34:11: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:34:11: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:34:19: Error log file session closed.
+L 04/05/2022 - 18:37:13: SourceMod error session started
+L 04/05/2022 - 18:37:13: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:37:13: [get5.smx] Failed to load match config: Cannot play a series of 9 maps with a maplist of 7 maps
+L 04/05/2022 - 18:37:25: Error log file session closed.
+L 04/05/2022 - 18:37:36: SourceMod error session started
+L 04/05/2022 - 18:37:36: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:37:36: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:37:36: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:37:36: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:37:36: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:37:58: [get5.smx] Failed to load match config: Cannot play a series of 9 maps with a maplist of 7 maps
+L 04/05/2022 - 18:42:26: Error log file session closed.
+L 04/05/2022 - 18:43:13: SourceMod error session started
+L 04/05/2022 - 18:43:13: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:43:13: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:43:13: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:43:13: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:43:13: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:48:02: Error log file session closed.
+L 04/05/2022 - 18:48:53: SourceMod error session started
+L 04/05/2022 - 18:48:53: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:48:53: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:48:53: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:48:53: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:48:53: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:49:01: Error log file session closed.
+L 04/05/2022 - 18:49:45: SourceMod error session started
+L 04/05/2022 - 18:49:45: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:49:45: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:49:45: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:49:45: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:49:45: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:50:03: Error log file session closed.
+L 04/05/2022 - 18:50:55: SourceMod error session started
+L 04/05/2022 - 18:50:55: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:50:55: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:50:55: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:50:55: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:50:55: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:51:18: Error log file session closed.
+L 04/05/2022 - 18:52:53: SourceMod error session started
+L 04/05/2022 - 18:52:53: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:52:53: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:52:53: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:52:53: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:52:53: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:53:08: Error log file session closed.
+L 04/05/2022 - 18:55:31: SourceMod error session started
+L 04/05/2022 - 18:55:31: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 18:55:31: [get5.smx] Failed to load match config: Cannot play a series of 9 maps with a maplist of 7 maps
+L 04/05/2022 - 18:55:43: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:55:43: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 18:55:43: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 18:55:43: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 18:56:00: [get5.smx] Failed to load match config: Cannot play a series of 9 maps with a maplist of 7 maps
+L 04/05/2022 - 18:57:56: [get5.smx] Failed to load match config: Cannot play a series of 9 maps with a maplist of 7 maps
+L 04/05/2022 - 19:39:50: Error log file session closed.
+L 04/05/2022 - 19:42:15: SourceMod error session started
+L 04/05/2022 - 19:42:15: Info (map "de_dust2") (file "/home/container/csgo/addons/sourcemod/logs/errors_20220405.log")
+L 04/05/2022 - 19:42:15: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 19:42:15: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 04/05/2022 - 19:42:15: [UPDATER] Error: The requested URL returned error: 522
+L 04/05/2022 - 19:42:15: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 04/05/2022 - 19:44:22: Error log file session closed.
