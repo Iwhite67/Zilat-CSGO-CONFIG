@@ -31,6 +31,9 @@ Installation du Daemon Ptero
 
     [Install]
     WantedBy=multi-user.target
+    
+    
+    systemctl enable --now wings
 
 ###Installation CFG
 
